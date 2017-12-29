@@ -26,6 +26,13 @@ img {
 
 }
 
+h2 {
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 1.125rem;
+  font-size: 2rem;
+}
+
 .book1 img {
   width: 100px;
 }
@@ -81,8 +88,9 @@ img {
 .booktitle {
   font-weight: bold;
   text-align: left;
-  margin-bottom: 0;
+  margin-bottom: .5rem;
   font-size: 1rem;
+  padding: .5rem;
 }
 
 .author {
@@ -101,7 +109,7 @@ img {
   background-color: #333;
   color: #fff;
   font-size: 1.125rem;
-  padding: 4em;
+  padding: .4em;
   text-decoration: none;
   border-radius: 8px;
   border-width: 3px;
